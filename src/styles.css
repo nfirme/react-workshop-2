@@ -1,0 +1,25 @@
+.App {
+  background-color: whitesmoke;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.contact {
+  text-align: center;
+}
+
+.btn {
+  background-color: #38A169;
+  border: none;
+  border-radius: 10px;
+  color: white;
+  font-size: 2em;
+  padding: 1em 2em;
+}
+
+.btn:hover {
+  background-color: #2F855A;
+}
